@@ -1267,6 +1267,9 @@
             "https://github.com/wikimedia/WikipediaMobileFirefoxOS",
             "https://github.com/wikimedia/WLMMobile"
         ],
+        "gerrit": [
+                    "gerrit.wikimedia.org"
+        ],
         "meta": {
             "title": "wikimedia"
         },
@@ -1274,7 +1277,7 @@
                     "https://phabricator.wikimedia.org"
         ],
         "supybot": [
-            "irc://chat.freenode.net/mediawiki /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#mediawiki", 
+            "irc://chat.freenode.net/mediawiki /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#mediawiki",
             "irc://chat.freenode.net/wikimedia-analytics /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#wikimedia-analytics",
             "irc://chat.freenode.net/wikimedia-dev /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#wikimedia-dev",
             "irc://chat.freenode.net/wikimedia-fundraising /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#wikimedia-fundraising",
@@ -1298,4 +1301,3 @@
         ]
     }
 }
-
