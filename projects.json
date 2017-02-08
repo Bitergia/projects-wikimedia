@@ -1270,6 +1270,9 @@
         "gerrit": [
                     "gerrit.wikimedia.org"
         ],
+        "mediawiki": [
+                    "https://www.mediawiki.org/w"
+        ],
         "meta": {
             "title": "wikimedia"
         },
