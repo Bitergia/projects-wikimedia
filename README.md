@@ -1,2 +1,3 @@
-# projects-wikimedia
-Project and repositories monitored by https://wikimedia.biterg.io
+# Moved to https://gitlab.com/Bitergia/c/Wikimedia/sources
+
+
